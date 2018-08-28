@@ -1,4 +1,4 @@
-# entenda
+# Entenda
 Conheça a nossa comunidade e como participar dela
 
 ## O que é
@@ -39,4 +39,4 @@ Podem participar todas as mulheres (cis ou trans) e pessoas trans e não-binári
 
 ## Equipe e Voluntárias
 [TODO: descrever]
-Caso deseje participar da equipe do Codando Juntas e nos ajudar a levar a programação a mais mulheres, envie um e-mail para codandojuntas@gmail.com
+Caso tenha interesse em participar da equipe do Codando Juntas e nos ajudar a levar a programação a mais mulheres, envie um e-mail para codandojuntas@gmail.com
