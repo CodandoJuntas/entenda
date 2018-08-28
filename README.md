@@ -6,6 +6,7 @@ Codando Juntas é uma comunidade online de estudo de programação voltada para 
 
 ## Missão
 [TODO: descrever]
+Ajudar mulheres a aprender a programar. Dominar o mundo. Tomar sorvete aos domingos. 
 
 ## Como Funciona
 [TODO: descrever]
