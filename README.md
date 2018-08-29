@@ -38,6 +38,19 @@ Podem participar todas as mulheres (cis ou trans) e pessoas trans e não-binári
 2. Se comprometer com a sua própria rotina de estudos.
 3. Ajudar outras pessoas que estejam com dificuldades.
 
-## Equipe e Voluntárias
+## Equipe
 [TODO: descrever]
-Caso tenha interesse em participar da equipe do Codando Juntas e nos ajudar a levar a programação a mais mulheres, envie um e-mail para codandojuntas@gmail.com
+### Líder de Projeto
+[TODO: descrever]
+### Quem somos
+- Ana Carolina Barreto
+- 
+
+
+
+## Voluntárias 
+Caso tenha interesse em participar do Codando Juntas e nos ajudar a levar a programação a mais mulheres, envie um e-mail para codandojuntas@gmail.com com o assunto "Voluntária"
+[TODO: Descrever] 
+
+### Quem somos
+-
