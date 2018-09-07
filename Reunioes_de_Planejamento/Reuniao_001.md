@@ -1,14 +1,16 @@
+Essa é a ata da reunião e reflete apenas os acontecimentos da reunião. Qualquer modificação do projeto, do texto, ou qualquer outra será incluída no futuro e pode refletir na ata de reuniões subsequentes. Considere esse documento apenas pelo seu marco histórico.
+
 # REUNIÃO 1
 
 **DATA**: 29 de agosto de 2018
 
-**PARTICIPANTES**: Aline, Ana, Drielly, Flavia, Mara, Priscyla.
+**PARTICIPANTES**: Aline, Ana, Drielly, Flávia, Mara, Priscyla.
 
 ## ESCOPO
 
-O foco do projeto são as participantes. O papel do Codando Juntas é proporcionar conteúdo de qualidade e acessível, elaborado preferencialmente por mulheres, com o intuito de auxiliar as participantes a encontrarem e desenvolverem-se nas tecnologias que melhor se adequar aos seus projetos de vida.
+O foco do projeto são as participantes. O papel do Codando Juntas é proporcionar conteúdo acessível e de qualidade, elaborado preferencialmente por mulheres, com o intuito de auxiliar as participantes a encontrarem e desenvolverem-se nas tecnologias que melhor se adequar aos seus projetos de vida.
 
-O projeto priorizada um ambiente seguro em que as integrantes sintam-se acolhidas e confortáveis para expor seus pontos de vista e esclarecer eventuais dúvidas.
+O projeto prioriza um ambiente seguro em que as integrantes sintam-se acolhidas e confortáveis para expor seus pontos de vista e esclarecer eventuais dúvidas.
 
 O intuito é que o conteúdo seja desenvolvido em conjunto com a comunidade.
 
@@ -19,7 +21,7 @@ Participantes que desejarem fazer parte da organização do projeto podem, de acor
 * EQUIPE: Membros com presença ativa e com responsabilidades quanto a entregas de atividades. Dentro da categoria Equipe, tem-se a possibilidade de atuar como
 	* LÍDER DE PROJETO: Participante que será responsável por coordenar o planejamento e a execução de projetos, portanto, de quem espera-se comprometimento.
 		Dentre suas responsbilidades está o Levantamento de Requisitos e Funções e a Organização de recursos físicos ou digitais para execução do projeto que coordena.
-	* PARTICIPANTE (VOLUNTÁRIA): Participante cuja participação na equipe de coordenação é mais flexível, podendo ser ocasional. 
+	* PARTICIPANTE (VOLUNTÁRIA): Participante na equipe de coordenação que atua de forma mais flexível, podendo ser ocasional. 
 
 ## PLANEJAMENTO TRIMESTRAL
 
@@ -47,7 +49,7 @@ Participantes que desejarem fazer parte da organização do projeto podem, de acor
 
 * O intuito é centralizar a organização no GitHub, portanto devemos facilitar a transição das participantes para esta ferramenta, auxiliando com conteúdo/tutorial de como utilizá-lo e incentivando para que as participantes pratiquem e tirem dúvidas quanto à utilização;
 
-* Ainda precisa-se definir se será criada uma página para o Codando Juntas no Facebook e também como será consuzido o perfil no Twitter;
+* Ainda precisa definir se será criada uma página para o Codando Juntas no Facebook e também como será conduzido o perfil no Twitter;
 
 * Foi sugerido que o Discord seja oganizado por linguagens e citado como exemplo o formato que o Marco Bruno utiliza em seu curso;
 
@@ -60,7 +62,6 @@ Participantes que desejarem fazer parte da organização do projeto podem, de acor
 * Os eventos do mês deverão ser organizados em um único post.
 
 * A divulgação de Vagas será feita semanalmente?
-	
 	
 ### OUTUBRO
 
@@ -80,7 +81,6 @@ Será feita uma reunião para estruturarmos o projeto, mas por hora temos como car
 
 QUESTIONAMENTOS: Quando? Como? Quem serão os parceiros? Terá site próprio?
 
-
 ### NOVEMBRO
 
 PROJETO: womenGameJam
@@ -89,11 +89,9 @@ OBJETIVO: Proporcionar o networking (local/nacional).
 
 Será feita uma reunião para estruturarmos o projeto, mas por hora temos como características iniciais:
 
-
 * Local pré-definido: PUC-PR;
 
 * Data pré-definida: De 02/11 a 05/11.
-
 
 ## PROJETOS FUTUROS A SEREM ESTRUTURADOS
 
@@ -104,8 +102,6 @@ Será feita uma reunião para estruturarmos o projeto, mas por hora temos como car
 * Elaboração de RoadMaps(trilhas) que são conteúdos em Português e desenvolvido apenas por mulheres a respeito de temas relevantes: tecnologias, linguagens, tópico específico de uma linguagem de programação, etc.
 
 	Todas as particpantes são convidadas a submeter conteúdo neste projeto.
-
-
  
 ## OUTROS TÓPICOS
 
